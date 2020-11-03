@@ -1,0 +1,22 @@
+class Solution {
+public:
+    int maxPower(string s) {
+        int n = s.length();
+        if(n == 1)
+            return 1;
+        
+        char prev  = s[0];
+        int max_l  = 1;
+        int curr_l = 1;
+        for(int i = 1; i<n; i++) {
+            if(s[i] == prev) {
+                curr_l++;
+            } else {
+                prev = s[i];
+                max_l = max(max_l, curr_l);
+                curr_l = 1;
+            }
+        }
+        return max(max_l, curr_l);
+    }
+};
