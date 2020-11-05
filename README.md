@@ -23,5 +23,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/novem
 			  <td>Consecutive Characters</td>
         <td><a href="https://github.com/MAZHARMIK/Leetcode-November-Challenge-2020/blob/main/Consecutive%20Characters"><img src="https://logos-download.com/wp-content/uploads/2016/05/Port_Adelaide_Power_logo_black.png" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Minimum Height Trees</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Minimum%20Height%20Trees"><img src="http://sweetclipart.com/multisite/sweetclipart/files/tree_tiny_green_simple.png" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
