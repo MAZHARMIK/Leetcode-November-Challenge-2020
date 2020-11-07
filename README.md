@@ -31,5 +31,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/novem
 			  <td>Minimum Cost to Move Chips to The Same Position</td>
         <td><a href="https://github.com/MAZHARMIK/Leetcode-November-Challenge-2020/blob/main/Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/IsthmusCityChips.jpg" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Find the Smallest Divisor Given a Threshold</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold"><img src="https://ecdn.teacherspayteachers.com/thumbitem/division-clipart-FREE-FREEDBACK-CHALLENGE--2634496-1543003299/original-2634496-3.jpg" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
