@@ -43,5 +43,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/novem
 			  <td>Binary Tree Tilt</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Binary%20Tree%20Tilt"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/38fa9550-4d90-42dc-985d-f57cd5882d81/d2ogucm-a0ea6aab-1fff-4088-aa23-6bb5a5f1deaf.jpg/v1/fill/w_1024,h_699,q_75,strp/tilted_tree_by_rekokros.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8zOGZhOTU1MC00ZDkwLTQyZGMtOTg1ZC1mNTdjZDU4ODJkODEvZDJvZ3VjbS1hMGVhNmFhYi0xZmZmLTQwODgtYWEyMy02YmI1YTVmMWRlYWYuanBnIiwid2lkdGgiOiI8PTEwMjQiLCJoZWlnaHQiOiI8PTY5OSJ9XV19.paVBw5WrQFG1ARp-ISf4brP7UwcDCJq9Zc88SX-Wdr8" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Maximum Difference Between Node and Ancestor</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Maximum%20Difference%20Between%20Node%20and%20Ancestor"><img src="https://i1.faceprep.in/Companies-1/ancestors%20of%20a%20given%20node%20in%20a%20binary%20tree.png" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
