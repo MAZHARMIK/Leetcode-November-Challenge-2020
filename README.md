@@ -47,5 +47,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/novem
 			  <td>Maximum Difference Between Node and Ancestor</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Maximum%20Difference%20Between%20Node%20and%20Ancestor"><img src="https://i1.faceprep.in/Companies-1/ancestors%20of%20a%20given%20node%20in%20a%20binary%20tree.png" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Flipping an Image</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-November-Challenge-2020/blob/main/Flipping%20an%20Image"><img src="https://image.freepik.com/free-vector/little-boy-flipping-white-background_1308-8393.jpg" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
