@@ -51,5 +51,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/novem
 			  <td>Flipping an Image</td>
         <td><a href="https://github.com/MAZHARMIK/Leetcode-November-Challenge-2020/blob/main/Flipping%20an%20Image"><img src="https://image.freepik.com/free-vector/little-boy-flipping-white-background_1308-8393.jpg" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Valid Square</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-November-Challenge-2020/blob/main/Valid%20Square"><img src="http://www.e-home2u.com/images/square_banner.jpg" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
