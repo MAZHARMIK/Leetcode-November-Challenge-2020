@@ -1,0 +1,26 @@
+class Solution {
+public:
+    bool cal(vector<int>& P1, vector<int>& P2, set<int>& st) {
+        if(P1[0] == P2[0] && P1[1] == P2[1])
+            return false;
+        
+        int x = P1[0]-P2[0];
+        int y = P1[1]-P2[1];
+        st.insert(x*x + y*y);
+        
+        return true;
+    }
+    bool validSquare(vector<int>& p1, vector<int>& p2, vector<int>& p3, vector<int>& p4) {
+        set<int> st;
+        
+        if(!cal(p1, p2, st) ||
+           !cal(p1, p3, st) ||
+           !cal(p1, p4, st) ||
+           !cal(p2, p3, st) ||
+           !cal(p2, p4, st) ||
+           !cal(p3, p4, st))
+            return false;
+        
+        return st.size()==2;
+    }
+};
