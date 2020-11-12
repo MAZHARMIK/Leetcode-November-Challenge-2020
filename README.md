@@ -55,5 +55,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/novem
 			  <td>Valid Square</td>
         <td><a href="https://github.com/MAZHARMIK/Leetcode-November-Challenge-2020/blob/main/Valid%20Square"><img src="http://www.e-home2u.com/images/square_banner.jpg" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Permutations II</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Backtracking/Permutations%20II"><img src="https://static.javatpoint.com/tutorial/daa/images/backtracking-introduction.png" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
