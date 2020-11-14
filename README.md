@@ -63,5 +63,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/novem
 			  <td>Populating Next Right Pointers in Each Node</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Populating Next Right Pointers in Each Node"><img src="https://4.bp.blogspot.com/-WjZqKNFutOU/WSxhELuUs4I/AAAAAAAAB4A/0voGl3U1RZgpz64iekhBRxvV6E2cBU4nwCEw/s1600/perfect-binary-tree-example.png" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Poor Pigs</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Poor%20Pigs"><img src="https://thumbs.dreamstime.com/b/einfaches-rgb-147769811.jpg" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
