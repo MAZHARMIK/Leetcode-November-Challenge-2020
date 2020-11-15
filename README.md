@@ -65,11 +65,11 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/novem
 			</tr>
 			<tr>
 			  <td>Poor Pigs</td>
-        <td><a href="https://github.com/MAZHARMIK/Leetcode-November-Challenge-2020/blob/main/Range%20Sum%20of%20BST"><img src="https://4.bp.blogspot.com/-wj7-p-xVINQ/XtkFOQQTp5I/AAAAAAAANjs/uwO263Y1n0YdbAJxaKgcrTcMfF5L5P8YwCK4BGAYYCw/s1600/deletion-in-binary-search-tree.png" width="400" height="240"></a></td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-November-Challenge-2020/blob/main/Range%20Sum%20of%20BST"><img src="https://thumbs.dreamstime.com/b/einfaches-rgb-147769811.jpg" width="400" height="240"></a></td>
 			</tr>
 			<tr>
 			  <td>Range Sum of BST</td>
-        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Poor%20Pigs"><img src="https://thumbs.dreamstime.com/b/einfaches-rgb-147769811.jpg" width="400" height="240"></a></td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-November-Challenge-2020/blob/main/Range%20Sum%20of%20BST"><img src="https://4.bp.blogspot.com/-wj7-p-xVINQ/XtkFOQQTp5I/AAAAAAAANjs/uwO263Y1n0YdbAJxaKgcrTcMfF5L5P8YwCK4BGAYYCw/s1600/deletion-in-binary-search-tree.png" width="400" height="240"></a></td>
 			</tr>
 		</tbody>
 </table>
