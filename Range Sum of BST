@@ -1,0 +1,27 @@
+/*
+      Company Tags  : Amazon, Microsoft, Facebook
+      Leetcode Link : https://leetcode.com/problems/range-sum-of-bst/
+*/
+
+class Solution {
+public:
+    void cal(TreeNode* root, int low, int high, int& sum) {
+        if(!root)
+            return;
+        
+        if(root->val > high)
+            cal(root->left, low, high, sum);
+        else if(root->val < low)
+            cal(root->right, low, high, sum);
+        if(root->val >= low && root->val <= high) {
+            sum += root->val;
+            cal(root->left, low, high, sum);
+            cal(root->right, low, high, sum);
+        }
+    }
+    int rangeSumBST(TreeNode* root, int low, int high) {
+        int sum = 0;
+        cal(root, low, high, sum);
+        return sum;
+    }
+};
