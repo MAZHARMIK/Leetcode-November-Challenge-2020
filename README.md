@@ -71,5 +71,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/novem
 			  <td>Range Sum of BST</td>
         <td><a href="https://github.com/MAZHARMIK/Leetcode-November-Challenge-2020/blob/main/Range%20Sum%20of%20BST"><img src="https://4.bp.blogspot.com/-wj7-p-xVINQ/XtkFOQQTp5I/AAAAAAAANjs/uwO263Y1n0YdbAJxaKgcrTcMfF5L5P8YwCK4BGAYYCw/s1600/deletion-in-binary-search-tree.png" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Longest Mountain in Array</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Longest%20Mountain%20in%20Array"><img src="https://clipground.com/images/winter-hike-clipart-20.jpg" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
