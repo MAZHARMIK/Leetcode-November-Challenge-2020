@@ -1,0 +1,19 @@
+class Solution {
+public:
+    int mirrorReflection(int p, int q) {
+        int m = 1, n = 1;
+        
+        //we need to find m and n for which p*m is equal to q*n
+        while(p*m != q*n) {
+            n += 1;
+            m = (q*n)/p;
+        }
+        
+        if(n%2 == 0)
+            return 2;
+        
+        if(m%2 == 0)
+            return 0;
+        return 1;
+    }
+};
