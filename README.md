@@ -75,5 +75,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/novem
 			  <td>Longest Mountain in Array</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Longest%20Mountain%20in%20Array"><img src="https://clipground.com/images/winter-hike-clipart-20.jpg" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Mirror Reflection</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-November-Challenge-2020/blob/main/Mirror%20Reflection"><img src="https://cdn3.vectorstock.com/i/1000x1000/30/17/man-see-his-reflection-in-the-mirror-vector-9533017.jpg" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
