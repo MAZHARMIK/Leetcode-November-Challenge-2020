@@ -79,5 +79,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/novem
 			  <td>Mirror Reflection</td>
         <td><a href="https://github.com/MAZHARMIK/Leetcode-November-Challenge-2020/blob/main/Mirror%20Reflection"><img src="https://cdn3.vectorstock.com/i/1000x1000/30/17/man-see-his-reflection-in-the-mirror-vector-9533017.jpg" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Merge Intervals</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Intervals_Based_Qn/Merge%20Intervals"><img src="https://helloacm.com/wp-content/uploads/2019/12/merge-intervals.jpg" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
