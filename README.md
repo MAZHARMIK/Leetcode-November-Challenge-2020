@@ -83,5 +83,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/novem
 			  <td>Merge Intervals</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Intervals_Based_Qn/Merge%20Intervals"><img src="https://helloacm.com/wp-content/uploads/2019/12/merge-intervals.jpg" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Decode String</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Stack/Decode%20String"><img src="https://www.decodeproject.eu/sites/default/files/uploads/Copy%20of%20Logo%404x.png" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
