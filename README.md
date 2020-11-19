@@ -65,7 +65,7 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/novem
 			</tr>
 			<tr>
 			  <td>Poor Pigs</td>
-        <td><a href="https://github.com/MAZHARMIK/Leetcode-November-Challenge-2020/blob/main/Range%20Sum%20of%20BST"><img src="https://thumbs.dreamstime.com/b/einfaches-rgb-147769811.jpg" width="400" height="240"></a></td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/74848874ae9f339a04f54c10f63cb373a6356c34/Mathematical/Poor%20Pigs"><img src="https://thumbs.dreamstime.com/b/einfaches-rgb-147769811.jpg" width="400" height="240"></a></td>
 			</tr>
 			<tr>
 			  <td>Range Sum of BST</td>
