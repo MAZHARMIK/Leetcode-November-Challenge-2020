@@ -87,5 +87,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/novem
 			  <td>Decode String</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Stack/Decode%20String"><img src="https://www.decodeproject.eu/sites/default/files/uploads/Copy%20of%20Logo%404x.png" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Search in Rotated Sorted Array II</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/Search%20in%20Rotated%20Sorted%20Array%20II"><img src="https://codeforwin.org/wp-content/uploads/2017/03/right-array-rotate.png" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
