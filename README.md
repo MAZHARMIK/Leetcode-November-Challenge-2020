@@ -91,5 +91,9 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/novem
 			  <td>Search in Rotated Sorted Array II</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/Search%20in%20Rotated%20Sorted%20Array%20II"><img src="https://codeforwin.org/wp-content/uploads/2017/03/right-array-rotate.png" width="400" height="240"></a></td>
 			</tr>
+			<tr>
+			  <td>Numbers At Most N Given Digit Set</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Numbers%20At%20Most%20N%20Given%20Digit%20Set"><img src="https://www.dyslexicadvantage.org/wp-content/uploads/2016/08/maths-our-shutterstock.jpg" width="400" height="240"></a></td>
+			</tr>
 		</tbody>
 </table>
