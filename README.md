@@ -93,7 +93,13 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/novem
 			</tr>
 			<tr>
 			  <td>Numbers At Most N Given Digit Set</td>
-        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Numbers%20At%20Most%20N%20Given%20Digit%20Set"><img src="https://www.dyslexicadvantage.org/wp-content/uploads/2016/08/maths-our-shutterstock.jpg" width="400" height="240"></a></td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Numbers%20At%20Most%20N%20Given%20Digit%20Set"><img src="https://www.dyslexicadvantage.org/wp-content/uploads/2016/08/maths-our-shutterstock.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
+			  <td>Unique Morse Code Words</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-November-Challenge-2020/blob/main/Unique%20Morse%20Code%20Words"><img src="https://danscartoons.com/wp-content/uploads/2013/08/Amateur-Radio-Ham-Cartoon-05.gif" width="400" height="240"></a>
+			  </td>
 			</tr>
 		</tbody>
 </table>
