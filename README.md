@@ -111,5 +111,15 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/novem
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Stack/Basic%20Calculator%20II"><img src="https://www.proprofs.com/flashcards/upload/q6922468.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Smallest Integer Divisible by K</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Smallest%20Integer%20Divisible%20by%20K"><img src="https://i.ytimg.com/vi/UtQSeBkZHWg/maxresdefault.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
+			  <td>Longest Substring with At Least K Repeating Characters</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Recursion/Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters"><img src="https://i.stack.imgur.com/tTSKt.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
