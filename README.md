@@ -121,5 +121,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/novem
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Recursion/Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters"><img src="https://i.stack.imgur.com/tTSKt.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Partition Equal Subset Sum</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Partition%20Equal%20Subset%20Sum"><img src="https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/partition-equal-subset-sum-banner-83511f2456d69bba.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
