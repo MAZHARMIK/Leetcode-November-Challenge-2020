@@ -131,5 +131,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/novem
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Sliding%20Window/Sliding%20Window%20Maximum"><img src="https://miro.medium.com/max/1744/1*oWSgrZvYpCCzfgCC79oRaw.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Jump Game III</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Recursion/Jump%20Game%20III%20(Recursive(DFS)%20-%3E%20BFS)"><img src="https://static.vecteezy.com/system/resources/previews/000/299/392/original/wordcard-for-jump-with-girl-jumping-vector.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
