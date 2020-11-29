@@ -126,5 +126,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/novem
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Partition%20Equal%20Subset%20Sum"><img src="https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/partition-equal-subset-sum-banner-83511f2456d69bba.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Sliding Window Maximum</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Sliding%20Window/Sliding%20Window%20Maximum"><img src="https://miro.medium.com/max/1744/1*oWSgrZvYpCCzfgCC79oRaw.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
