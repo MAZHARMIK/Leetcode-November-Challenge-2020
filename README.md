@@ -136,5 +136,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/novem
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Recursion/Jump%20Game%20III%20(Recursive(DFS)%20-%3E%20BFS)"><img src="https://static.vecteezy.com/system/resources/previews/000/299/392/original/wordcard-for-jump-with-girl-jumping-vector.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>The Skyline Problem</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-November-Challenge-2020/blob/main/The%20Skyline%20Problem"><img src="https://media.istockphoto.com/illustrations/silhouette-of-modern-city-skyscrapers-skyline-at-night-illustration-id671031532?k=6&m=671031532&s=170667a&w=0&h=zfItL67ZZRFd8HD3Qx7ANFc-RhYQG8Xuoqyy51Mq-JM=" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
