@@ -72,21 +72,7 @@ public:
         int n = buildings.size();
         
         vector<vector<int>> mergedSkyLine = merge_sort_sky_line(0, n-1, buildings);
-        int current = 0;
-        while(current < mergedSkyLine.size()) {
-            bool dup = true;
-            int i = current + 1;
-            while(i < mergedSkyLine.size() && dup) {
-                if(mergedSkyLine[current][1] == mergedSkyLine[i][1]) {
-                    dup = true;
-                    mergedSkyLine.erase(mergedSkyLine.begin()+i);
-                } else {
-                    dup = false;
-                }
-            }
-            current++;
-        }
-        
+           
         return mergedSkyLine;
     }
 };
