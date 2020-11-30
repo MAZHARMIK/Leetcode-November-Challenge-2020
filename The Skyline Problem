@@ -9,6 +9,7 @@ public:
         while(i < leftSkyLine.size() && j < rightSkyLine.size()) {
             vector<int> s1     = leftSkyLine[i];
             vector<int> s2     = rightSkyLine[j];
+            //choose the one having less value for x co-ordinate
             if(s1[0] < s2[0]) {
                 h1   = s1[1];
                 skyX = s1[0];
@@ -25,6 +26,8 @@ public:
                 j++;
             }
             
+            //I will only add a new point when my last max height(skyH) is changed
+            //Because, lower height would be overshadowed
             if(skyH != max(h1, h2)) {
                 skyH = max(h1, h2);
                 mergedSkyLine.push_back({skyX, skyH});
